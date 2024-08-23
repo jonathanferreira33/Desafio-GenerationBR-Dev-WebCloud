@@ -1,0 +1,5 @@
+C:\Users\Jonathan\Desktop\CSharp\Desafio-GenerationBR-Dev-WebCloud\Desafio-DevWebCloudAWSPractitioner\Infra-DB\obj\Debug\net8.0\Infra-DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\CSharp\Desafio-GenerationBR-Dev-WebCloud\Desafio-DevWebCloudAWSPractitioner\Infra-DB\obj\Debug\net8.0\Infra-DB.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\CSharp\Desafio-GenerationBR-Dev-WebCloud\Desafio-DevWebCloudAWSPractitioner\Infra-DB\obj\Debug\net8.0\Infra-DB.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\CSharp\Desafio-GenerationBR-Dev-WebCloud\Desafio-DevWebCloudAWSPractitioner\Infra-DB\obj\Debug\net8.0\Infra-DB.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\CSharp\Desafio-GenerationBR-Dev-WebCloud\Desafio-DevWebCloudAWSPractitioner\Infra-DB\obj\Debug\net8.0\Infra-DB.sourcelink.json
