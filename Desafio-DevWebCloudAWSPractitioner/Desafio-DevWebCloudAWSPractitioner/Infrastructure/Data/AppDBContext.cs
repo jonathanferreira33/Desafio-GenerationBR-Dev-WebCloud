@@ -1,5 +1,7 @@
 ﻿using Desafio_DevWebCloudAWSPractitioner.Infrastructure.DBContext.Persistence;
 using Microsoft.EntityFrameworkCore;
+using System.Data;
+using System.Reflection.Emit;
 
 namespace Desafio_DevWebCloudAWSPractitioner.Infrastructure.DBContext
 {

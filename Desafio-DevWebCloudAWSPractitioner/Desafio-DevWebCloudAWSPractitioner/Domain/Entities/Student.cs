@@ -8,6 +8,6 @@ namespace Desafio_DevWebCloudAWSPractitioner.Domain.Entities
         public string Name { get; set; }
         public int Age { get; set; }
         public int RA { get; set; }
-        public SchoolInfosEntity SchoolInfos { get; set; }
+        public SchoolInfos SchoolInfos { get; set; }
     }
 }

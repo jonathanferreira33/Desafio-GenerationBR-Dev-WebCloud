@@ -1,4 +1,8 @@
 ﻿using AutoMapper;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Desafio_DevWebCloudAWSPractitioner.Infrastructure.DBContext;
 using Desafio_DevWebCloudAWSPractitioner.Infrastructure.DBContext.Persistence;
 using Microsoft.EntityFrameworkCore;
@@ -19,9 +23,10 @@ namespace Desafio_DevWebCloudAWSPractitioner.Infrastructure.DB.Persistence
 
         public async Task<bool> AddStudent(StudentEntity studentEnt)
         {
-            var lastRA = GetLastRA();
+            int lastRA = GetLastRA();
+            lastRA++;
 
-            studentEnt.RA = lastRA.Max().RA++;
+            studentEnt.RA = lastRA;
 
             await _context.AddAsync(studentEnt);
             if (_context.SaveChangesAsync().Result != -1)
@@ -45,13 +50,14 @@ namespace Desafio_DevWebCloudAWSPractitioner.Infrastructure.DB.Persistence
 
         public IEnumerable<StudentEntity> GetAll()
         {
-            return _context.Students.ToList();
+            return _context.Students.Include(infos => infos.SchoolInfos).ToList();
         }
 
         public StudentEntity GetById(Guid id)
         {
-            return _context.Students
+            var studentEntity = _context.Students
                 .Single(s => s.Id == id);
+            return studentEntity;
         }
 
         public StudentEntity GetByRA(int ra)
@@ -60,15 +66,20 @@ namespace Desafio_DevWebCloudAWSPractitioner.Infrastructure.DB.Persistence
                 .Single(s => s.RA == ra);
         }
 
-        public IEnumerable<StudentEntity> GetLastRA()
+        public int GetLastRA()
         {
             var select = @"
                 SELECT * FROM desafiogenerationbr.students
                 ORDER BY (id) DESC 
                 LIMIT 1";
 
-            return _context.Students
+            var result = _context.Students
                 .FromSql(FormattableStringFactory.Create(select));
+
+            if (result.Count() == 0)
+                return 1000;
+
+            return result.Select(e => e.RA).Single();
         }
 
         public bool UpdateStudent(StudentEntity student)

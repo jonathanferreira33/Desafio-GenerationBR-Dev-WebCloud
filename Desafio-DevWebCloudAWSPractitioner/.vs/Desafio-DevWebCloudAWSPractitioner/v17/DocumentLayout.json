@@ -7,36 +7,24 @@
       "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\infrastructure\\data\\persistence\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\application\\usecases\\studentinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\application\\usecases\\studentinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\infrastructure\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\infrastructure\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\domain\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\domain\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95FF0C08-5F3C-4F43-B016-952E4C1AF339}|Desafio-DevWebCloudAWSPractitioner-Tests\\Desafio-DevWebCloudAWSPractitioner-Tests.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner-tests\\studentinteractortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95FF0C08-5F3C-4F43-B016-952E4C1AF339}|Desafio-DevWebCloudAWSPractitioner-Tests\\Desafio-DevWebCloudAWSPractitioner-Tests.csproj|solutionrelative:desafio-devwebcloudawspractitioner-tests\\studentinteractortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\application\\usecases\\schoolinfosinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\application\\usecases\\schoolinfosinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\application\\gateways\\istudentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\application\\gateways\\istudentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|c:\\users\\jonathan\\desktop\\csharp\\desafio-generationbr-dev-webcloud\\desafio-devwebcloudawspractitioner\\desafio-devwebcloudawspractitioner\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5E80C8-CFEA-4F0C-9EA0-538D5944FB54}|Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner.csproj|solutionrelative:desafio-devwebcloudawspractitioner\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,65 +33,46 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 351,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 361,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SchoolInfosInteractor.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\SchoolInfosInteractor.cs",
-              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\SchoolInfosInteractor.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\SchoolInfosInteractor.cs",
-              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\SchoolInfosInteractor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Domain\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Domain\\StudentResponse.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Domain\\StudentResponse.cs",
+              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Domain\\StudentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:50:27.119Z",
+              "WhenOpened": "2024-08-27T03:17:48.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentInteractorTest.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner-Tests\\StudentInteractorTest.cs",
-              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner-Tests\\StudentInteractorTest.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner-Tests\\StudentInteractorTest.cs",
-              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner-Tests\\StudentInteractorTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:29:14.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IStudentGateway.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Application\\Gateways\\IStudentGateway.cs",
-              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Application\\Gateways\\IStudentGateway.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Application\\Gateways\\IStudentGateway.cs",
-              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Application\\Gateways\\IStudentGateway.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T00:55:16.088Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 351,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Mapper\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Mapper\\MappingProfile.cs",
               "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:07:40.483Z",
+              "WhenOpened": "2024-08-27T03:07:31.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:44:07.755Z",
               "EditorCaption": ""
             },
             {
@@ -114,61 +83,41 @@
               "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\Persistence\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\Persistence\\StudentRepository.cs",
               "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\Persistence\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwDkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:00:03.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Program.cs",
-              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Program.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Program.cs",
-              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:07:37.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:00:57.276Z",
+              "WhenOpened": "2024-08-24T00:13:43.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Infrastructure\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:55:24.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 361,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Domain\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Domain\\Entities\\Student.cs",
               "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Domain\\Entities\\Student.cs",
               "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:59:20.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentInteractor.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\StudentInteractor.cs",
-              "RelativeDocumentMoniker": "Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\StudentInteractor.cs",
-              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\CSharp\\Desafio-GenerationBR-Dev-WebCloud\\Desafio-DevWebCloudAWSPractitioner\\Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\StudentInteractor.cs",
-              "RelativeToolTip": "Desafio-DevWebCloudAWSPractitioner\\Application\\UseCases\\StudentInteractor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T00:50:49.031Z",
+              "WhenOpened": "2024-08-27T03:06:07.22Z",
               "EditorCaption": ""
             }
           ]

@@ -10,6 +10,6 @@ namespace Desafio_DevWebCloudAWSPractitioner.Infrastructure.DB.Persistence
         Task<bool> AddStudent(StudentEntity student);
         bool UpdateStudent(StudentEntity student);
         bool DeleteStudent(Guid id);
-        IEnumerable<StudentEntity> GetLastRA();
+        int GetLastRA();
     }
 }

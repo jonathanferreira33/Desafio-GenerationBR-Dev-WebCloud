@@ -55,7 +55,7 @@ namespace Desafio_DevWebCloudAWSPractitioner.Controllers
                 return StatusCode(
                    500,
                    new Result<Object>(e.Message, 500)
-               );
+                );
             }
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio-DevWebCloudAWSPractitioner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+488981d5ec374a1b0785696f3cd027e002591f67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61b2881fe41ce91a5d7e3dae72b3ccfb4b5c1859")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio-DevWebCloudAWSPractitioner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio-DevWebCloudAWSPractitioner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

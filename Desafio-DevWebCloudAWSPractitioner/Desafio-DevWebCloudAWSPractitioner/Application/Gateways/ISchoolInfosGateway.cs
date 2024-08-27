@@ -4,6 +4,6 @@ namespace Desafio_DevWebCloudAWSPractitioner.Application.Gateways
 {
     public interface ISchoolInfosGateway
     {
-        SchoolInfos createSchoolInfos(SchoolInfos schoolInfos);
+        SchoolInfos EditSchoolInfos(Student student, SchoolInfos infos);
     }
 }

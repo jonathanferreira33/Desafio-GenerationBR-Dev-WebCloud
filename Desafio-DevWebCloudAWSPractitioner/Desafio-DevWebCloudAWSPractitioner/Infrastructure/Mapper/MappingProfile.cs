@@ -17,9 +17,14 @@ namespace Desafio_DevWebCloudAWSPractitioner.Infrastructure.Mapper
             CreateMap<Student, StudentEntity>();
             CreateMap<Student, StudentRequest>();
             CreateMap<Student, StudentResponse>();
+            CreateMap<StudentResponse, Student>();
             CreateMap<SchoolInfos, SchoolInfosEntity>();
+            CreateMap<SchoolInfosEntity, SchoolInfos>();
+
 
             //.ForMember(dest => dest.Variants, opt => opt.Ignore());
         }
     }
 }
+
+
